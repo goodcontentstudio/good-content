@@ -13,6 +13,11 @@ a {
   color: #ffb9b6;
 }
 
+a:hover {
+  text-decoration: none;
+  color: #c1b6ff;
+}
+
 h1.insta {
   display: none;
 }
