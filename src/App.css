@@ -93,7 +93,7 @@ h1.name:hover h1.nospace{
 .inner ~ .pyro > .before, .inner ~ .pyro > .after {
   position: absolute;
   z-index: 17;
-  top: 20vh;
+  top: 30vh;
   width: 5px;
   height: 5px;
   border-radius: 50%;
