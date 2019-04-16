@@ -2,10 +2,11 @@
   text-align: center;
   background-color: #000;
   color: #FAEBD7;
+  font-family: 'Fjalla One', sans-serif;
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 48px;
 }
 
 a {
@@ -28,7 +29,7 @@ h1.nospace {
 
 h1.name:hover h1.insta{
   display: inline;
-  font-size: 32px;
+  font-size: 48px;
 }
 
 h1.name:hover h1.nospace{
